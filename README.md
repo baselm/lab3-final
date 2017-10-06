@@ -1,36 +1,23 @@
 # lab3-final
-<html>
-  <head>
-    <title>Sample "Hello, World" Python Flask Application</title>
-  </head>
-  <body bgcolor=white>
+ 
+Sample "Hello, World" Python Flask Application and MYSQL
 
-    <table border="0" cellpadding="10">
-      <tr>
-        <td>
-         </td>
-        <td>
-          <h1>Sample "Hello, World" Python Flask Application and MYSQL</h1>
+This is the home page for the HelloWorld Web application.
 
-        </td>
-      </tr>
-    </table>
+To prove that they work, you can execute either of the following links:
 
-    <p>This is the home page for the HelloWorld Web application. </p>
-    <p>To prove that they work, you can execute either of the following links:
-    <ul>
-      <p> To view main index page vist the route http://35.195.252.125:5000 </p>
-      <p>To pass your name to index.html http://35.195.252.125:5000/myfullname </p>
-       <p> To view all recored visit the endpoint at list route  http://35.195.252.125:5000/list</p>
-       <p>To insert a new record http://35.195.252.125:5000/insert/myname/myemail</p>
-       <p>To update a record based on the email  http://35.195.252.125:5000/update/thenewname/email</p>
-        <p>To delete a record http://35.195.252.125:5000/delete/name </p>
+To view main index page vist the route http://35.195.252.125:5000
 
-      </ul>
-      <ul>
-        <p> The data should apeare below</p>
-        {{name}}
-      </ul>
+To pass your name to index.html http://35.195.252.125:5000/myfullname
 
-  </body>
-</html>
+To view all recored visit the endpoint at list route http://35.195.252.125:5000/list
+
+To insert a new record http://35.195.252.125:5000/insert/myname/myemail
+
+To update a record based on the email http://35.195.252.125:5000/update/thenewname/email
+
+To delete a record http://35.195.252.125:5000/delete/name
+
+The data should apeare below
+
+ 
